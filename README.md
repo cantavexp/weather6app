@@ -24,4 +24,32 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 
+
+
+
+
+
+
+
+
+
+
+
+![Alt text](w6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Creater Info/Contact
+https://github.com/cantavexp/weather6app.git
